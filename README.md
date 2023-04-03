@@ -4,7 +4,7 @@ This is a simple Twitter web app built with Node.js, Express, and MongoDB. It al
 Getting Started
 To get started, follow these steps:
 
-Clone the repository: git clone https://github.com/yourusername/twitter-clone.git
+Clone the repository:  https://github.com/AstickDutta/Twitter-app.git master
 Install dependencies: npm install
 Create a .env file in the root directory and add the following environment variables:
 MONGODB_URI: the URI for your MongoDB database
