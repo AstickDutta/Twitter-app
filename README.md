@@ -24,9 +24,7 @@ To edit your profile, click the "Edit profile" button on your profile page.
 Tweets
 
 To view a tweet, click on its title in the tweet list.
-To like or unlike a tweet, click the heart icon next to the tweet.
-To retweet or unretweet a tweet, click the retweet icon next to the tweet.
-To reply to a tweet, click the reply icon next to the tweet and fill out the reply form.
+
 Search
 To search for tweets by keyword or hashtag, enter a search query in the search bar in the top navigation bar and press Enter.
 Follow
